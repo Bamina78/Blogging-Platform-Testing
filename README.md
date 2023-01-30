@@ -1,5 +1,5 @@
 # Blogging-Platform
-Blogging Platform E2E Testing 
+Blogging Platform E2E Testing with Cypress
 (Hackernoon, HashNode, IndieHackers, GrowthMentor)
 
 
