@@ -25,11 +25,15 @@ If you're using npm to install Cypress, we support:
 
 ### Installing
 
+```
 npm install
+```
 
 ## Running E2E tests
 
+```
 npx cypress open
+```
 
 ## Built With
 
