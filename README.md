@@ -1,5 +1,6 @@
-# Blogging-Platform-Testing
-Blogging Platform E2E Testing (Hackernoon, HashNode, IndieHackers, GrowthMentor)]
+# Blogging-Platform
+Blogging Platform E2E Testing 
+(Hackernoon, HashNode, IndieHackers, GrowthMentor)
 
 
 ## Getting Started
