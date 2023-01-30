@@ -37,7 +37,7 @@ npx cypress open
 
 ## Built With
 
-  - Cypress
+  - Cypress (1.2.4)
   - Javascript
 
 
