@@ -21,7 +21,6 @@ describe("Growth-Mentor Web Test", () => {
   it("Testing Wrong Password", () => {
     cy.get(`[href="${signInLink}"]`).click();
 
-    //Test login inputs
     cy.get("#growthmentor-input-1").type(`${userData.wrongEmail}`);
     cy.get("#growthmentor-input-2").type(`${userData.wrongPassword}`);
 
@@ -48,7 +47,6 @@ describe("Growth-Mentor Web Test", () => {
   it("Testing Sign In", () => {
     cy.get(`[href="${signInLink}"]`).click();
 
-    //Test login inputs
     cy.get("#growthmentor-input-1").type(`${userData.email}`);
     cy.get("#growthmentor-input-2").type(`${userData.password}`);
 
