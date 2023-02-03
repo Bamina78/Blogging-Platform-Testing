@@ -2,5 +2,10 @@
   "firstName": "Amina",
   "lastName": "Banda",
   "email": "banda.amina2@gmail.com",
-  "password": "password12"
+  "password": "password12",
+  "wrongFirstName": "Jessica",
+  "wrongLastName": "Brown",
+  "wrongEmail": "wrongemail@test.com",
+  "wrongPassword": "12345567"
 }
+
